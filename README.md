@@ -37,8 +37,7 @@ Vedi il file [LICENSE.md](LICENSE.md) o https://creativecommons.org/licenses/by-
 - `paper/renascent-q-tet-cvtl.pdf` — versione PDF del paper (27 pagine)  
 - `paper/main.tex` — sorgente LaTeX (se reso pubblico)
 
-- ```markdown
-[![DOI](https://doi.org/10.5281/zenodo.18465546))
+
 
 
 @misc{Soliman2026,
