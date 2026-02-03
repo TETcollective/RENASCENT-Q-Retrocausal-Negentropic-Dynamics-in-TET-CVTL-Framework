@@ -38,7 +38,7 @@ Vedi il file [LICENSE.md](LICENSE.md) o https://creativecommons.org/licenses/by-
 - `paper/main.tex` — sorgente LaTeX (se reso pubblico)
 
 - ```markdown
-[![DOI](https://zenodo.org/badge/DOI/xxxx.svg)](https://doi.org/xxxx)
+[![DOI](https://doi.org/10.5281/zenodo.18465546))
 
 
 @misc{Soliman2026,
