@@ -35,7 +35,16 @@ Vedi il file [LICENSE.md](LICENSE.md) o https://creativecommons.org/licenses/by-
 ## Contenuti principali
 
 - `paper/renascent-q-tet-cvtl.pdf` — versione PDF del paper (27 pagine)  
-- `paper/main.tex` — sorgente LaTeX (se reso pubblico)  
+- `paper/main.tex` — sorgente LaTeX (se reso pubblico)
+
+- ```markdown
+[![DOI](https://zenodo.org/badge/DOI/xxxx.svg)](https://doi.org/xxxx)
 
 
-
+@misc{Soliman2026,
+  author = {Simon Soliman},
+  title = {RENASCENT-Q: Retrocausal Negentropic Dynamics in the TET–CVTL Framework},
+  year = {2026},
+  howpublished = {\url{https://github.com/TETcollective/RENASCENT-Q-Retrocausal-Negentropic-Dynamics-in-TET-CVTL-Framework}},
+  note = {Tet Collective -- Febbraio 2026},
+}
